@@ -56,8 +56,8 @@ void mirror(char *arr, int *p, int n){
             p[i] = 1;
         for(; arr[i + p[i]] == arr[i - p[i]]; p[i]++)
             ;
-        if(p[i] + i > mx){
-            mx = p[i] + i;
+        if(p[i] + i > max){
+            max = p[i] + i;
             id = i;
         }
     }
