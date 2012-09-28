@@ -26,6 +26,10 @@ Tutorial! Tutorial! Tutorial!!!!!!!!
 9032. Cube Free Numbers
 简单题
 
+--2012/09/28--
+
+9734. Hacking the random number generator
+先升序排序后折半查找即可
 --2012/09/27--
 
 11560. A Summatory
