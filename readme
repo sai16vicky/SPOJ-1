@@ -37,3 +37,9 @@ Tutorial! Tutorial! Tutorial!!!!!!!!
 
 11746. Sum the Series
 求和公式 S = (1-1/((n+1)**2 - n)) / 2 
+
+4141. Euler Totient Function
+递推公式求解
+a为N的质因数
+if(N%a==0 && (N/a)%a==0) E(N)=E(N/a)*a;
+if(N%a==0 && (N/a)%a!=0) E(N)=E(N/a)*(a-1);
