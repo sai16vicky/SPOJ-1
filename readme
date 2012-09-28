@@ -34,3 +34,6 @@ Tutorial! Tutorial! Tutorial!!!!!!!!
 
 11560. A Summatory
 计算所有后查询即可
+
+11746. Sum the Series
+求和公式 S = (1-1/((n+1)**2 - n)) / 2 
